@@ -1,26 +1,26 @@
-# 🚀 Full-Stack CRM Application
+# Full-Stack CRM Application
 
 Welcome to the **Full-Stack CRM Application**! This project is a comprehensive Customer Relationship Management (CRM) tool built with the MERN stack (MongoDB, Express, React, Node.js). It provides a robust set of features to help you manage deals, contacts, companies, and support tickets efficiently.
 
-## ✨ Key Features
+## Key Features
 
-### 💼 Deal Management (Kanban Board)
+### Deal Management (Kanban Board)
 - Visual drag-and-drop Kanban board to track deals across different stages.
 - Detailed modal views for deals to manage notes, assignees, and company associations.
 
-### 👥 Contact & Company Directory
+### Contact & Company Directory
 - Maintain a centralized directory of all your contacts and companies.
 - Search and filter functionality to quickly find the information you need.
 
-### 🎫 Support Ticketing System
+### Support Ticketing System
 - Integrated ticketing system for tracking customer support requests.
 - Manage ticket statuses and assignments to ensure timely resolution.
 
-### 🔒 Secure Authentication
+### Secure Authentication
 - Full user authentication using JSON Web Tokens (JWT) and `bcrypt` for password hashing.
 - Role-based access control (Admin vs. User).
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 **Frontend (`CRMFrontend`)**
 - **React.js** (via Vite for blazing-fast development)
@@ -34,7 +34,7 @@ Welcome to the **Full-Stack CRM Application**! This project is a comprehensive C
 - **Agenda** for background job processing
 - **JWT** for secure user sessions
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow these steps to run the project locally on your machine.
 
@@ -78,11 +78,11 @@ npm run dev
 
 Your CRM should now be running! The frontend will typically be accessible at `http://localhost:5173` and the backend API at `http://localhost:3000`.
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, issues, and feature requests are welcome!
 Feel free to check the [issues page](https://github.com/praketmehta/CRM/issues) if you want to contribute.
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
